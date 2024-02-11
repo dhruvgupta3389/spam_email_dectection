@@ -1,0 +1,8 @@
+pip install nltk
+pip install pandas
+pip install textblob
+2
+import nltk
+nltk.download()
+pip install scikit-learn
+pip install joblib
